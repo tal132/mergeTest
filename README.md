@@ -1,1 +1,3 @@
 # mergeTest
+commit 1
+
